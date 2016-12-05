@@ -1,0 +1,17 @@
+{
+  "name": "postcomponent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular-resource": "^1.5.8",
+    "lodash": "^4.17.2",
+    "restangular": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
